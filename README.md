@@ -1,8 +1,8 @@
-# Hey there! I'm Gabriel 👋
+# Hey there, I'm Gabriel!
 
-Technical student in Systems Development | Full Stack Developer | Passionate about programming, design, and useful projects
+Technical student in Systems Development  |  Full Stack Developer  |  Passionate about programming, design, and useful projects
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="left">
   
@@ -30,7 +30,7 @@ Technical student in Systems Development | Full Stack Developer | Passionate abo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
-## 📫 Contact
+## Contact
 
 - 📧 Email: gabriel.ziani.alves@outlook.com  
 - 💼 LinkedIn: www.linkedin.com/in/gabriel-alves-453b4a2b7
