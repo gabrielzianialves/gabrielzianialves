@@ -1,36 +1,73 @@
 # Hey there, I'm Gabriel!
 
-Technical student in Systems Development  |  Full Stack Developer  |  Passionate about programming, design, and useful projects
+**`TECHNICAL STUDENT IN SYSTEMS DEVELOPMENT`**  |  **`FULL STACK DEVELOPER`**
 
 ## Tech Stack
 
 <p align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 
+<img align = "left"
+     alt = "HTML"
+     title = "HTML"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<img align = "left"
+     alt = "CSS"
+     title = "CSS"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img align = "left"
+     alt = "JAVASCRIPT"
+     title = "JAVASCRIPT"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img align = "left"
+     alt = "JAVA"
+     title = "JAVA"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img align = "left"
+     alt = "REACT"
+     title = "REACT"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img align = "left"
+     alt = "CSHARP"
+     title = "CSHARP"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" 
+/>
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+<img align = "left"
+     alt = "NODEJS"
+     title = "NODEJS"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" 
+/>
 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+<img align = "left"
+     alt = "MYSQL"
+     title = "MYSQL"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
 </p>
 
-## Contact
-
-- 📧 Email: gabriel.ziani.alves@outlook.com  
-- 💼 LinkedIn: www.linkedin.com/in/gabriel-alves-453b4a2b7
