@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Bem%20vindo%2C%20gabrielzianialves%20aqui!-Sou%20estudante%20de%20Desenvolvimento%20de%20Sistemas-1e90ff?style=for-the-badge&logo=github" alt="banner" />
+  <img src="https://img.shields.io/badge/Bem%20vindo%2C%20Gabriel%20aqui!-Sou%20estudante%20de%20Desenvolvimento%20de%20Sistemas-1e90ff?style=for-the-badge&logo=github" alt="banner" />
 </p>
 
 <!-- Gráfico de Contribuições -->
 <p align="center">
-  <img width="600" alt="contrib-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=1e90ff&line=1e90ff&point=1e90ff&area=true&hide_border=true" />
+  <img width="600" alt="contrib-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielzianialves&bg_color=0d1117&color=1e90ff&line=1e90ff&point=1e90ff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -19,10 +19,10 @@ Sou **estudante de Desenvolvimento de Sistemas** apaixonado por tecnologia, prog
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=add8e6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielzianialves&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=add8e6" />
 
 <!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=1e90ff&text_color=add8e6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzianialves&layout=compact&hide_border=true&bg_color=0d1117&title_color=1e90ff&text_color=add8e6" />
 
 </div>
 
@@ -53,8 +53,4 @@ Visual Studio Code • Git • GitHub • Windows • Figma • Office
 
 ## 📫 Onde me encontrar
 <p align="center">
-  <a href="mailto:gabriel.ziani.alves@outlook.com"><img src="https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
+  <a href="mailto:gabriel.ziani.
