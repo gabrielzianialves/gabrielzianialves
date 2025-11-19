@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Bem%20vindo%2C%20Gabriel%20aqui!-Sou%20estudante%20de%20Desenvolvimento%20de%20Sistemas-1e90ff?style=for-the-badge&logo=github" alt="banner" />
+  <img src="https://img.shields.io/badge/Bem%20vindo%2C%20Gabriel%20aqui!-Estudante%20de%20Desenvolvimento%20de%20Sistemas-1e90ff?style=for-the-badge&logo=github" alt="banner" />
 </p>
 
 <!-- Gráfico de Contribuições -->
@@ -11,8 +11,8 @@
 ---
 
 ## 👨‍💻 Sobre mim
-Olá! Eu sou o **Gabriel Alves** ✨  
-Sou **estudante de Desenvolvimento de Sistemas** apaixonado por tecnologia, programação e projetos criativos. 
+Olá, eu sou o **Gabriel Alves**!
+Sou um **estudante de Desenvolvimento de Sistemas** apaixonado por tecnologia, programação e projetos criativos. 
 
 ---
 
@@ -38,7 +38,7 @@ Sou **estudante de Desenvolvimento de Sistemas** apaixonado por tecnologia, prog
 
 ---
 
-## 🚀 Tecnologias que eu uso
+## 🚀 Tecnologias que utilizo
 - **Frontend:** React Web, React Native, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Java, C  
 - **Banco de dados:** SQL  
@@ -53,8 +53,8 @@ Visual Studio Code • Git • GitHub • Windows • Figma • Office
 
 ## 📫 Onde me encontrar
 <p align="center">
-  <a href="mailto:gabriel.ziani.alves@outlook.com"><img src="https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gabriel.ziani.alves@outlook.com"><img src="https://img.shields.io/badge/Email-1e90ff?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/gabriel-alves-453b4a2b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
