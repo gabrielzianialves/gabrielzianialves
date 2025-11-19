@@ -53,4 +53,8 @@ Visual Studio Code • Git • GitHub • Windows • Figma • Office
 
 ## 📫 Onde me encontrar
 <p align="center">
-  <a href="mailto:gabriel.ziani.
+  <a href="mailto:gabriel.ziani.alves@outlook.com"><img src="https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
