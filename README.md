@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Bem%20vindo%2C%20Gabriel%20Alves%20aqui!-Sou%20estudante%20de%20Desenvolvimento%20de%20Sistemas-1e90ff?style=for-the-badge&logo=github" alt="banner" />
+  <img src="https://img.shields.io/badge/Bem%20vindo%2C%20gabrielzianialves%20aqui!-Sou%20estudante%20de%20Desenvolvimento%20de%20Sistemas-1e90ff?style=for-the-badge&logo=github" alt="banner" />
 </p>
 
 <!-- Gráfico de Contribuições -->
